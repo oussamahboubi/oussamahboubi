@@ -22,10 +22,8 @@ I build intelligent systems powered by **Large Language Models (LLMs)**, **Visio
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E1E1E?style=for-the-badge&logo=graphql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-AI-blue?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VibCoder](https://img.shields.io/badge/VibCoder-FF6F61?style=for-the-badge&logo=video&logoColor=white)
 
 ---
 
