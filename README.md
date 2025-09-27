@@ -8,11 +8,11 @@ I build intelligent systems powered by **Large Language Models (LLMs)**, **Visio
   - LLM + VLM integration for multimodal document understanding  
   - Build scalable AI-powered solutions  
 
-- 💻 Tech I Use: Python, FastAPI, Docker, LangChain, LangGraph, n8n, ChatGPT, Claude, aistudio, Ollama, Mistral, Llama, VibCoding 
+- 💻 Tech I Use: Python, FastAPI, Docker, LangChain, LangGraph, n8n, ChatGPT, Claude, aistudio, Ollama, Mistral, Llama, VibeCoding 
 - 📚 Current Projects:  
   - **Document Intelligence:** OCR + VLM + RAG pipeline
   - **Research AI:** Multi-agent systems for automated research & comparative analysis  
-  - **VibCoder Projects:** Building SaaS solutions for automation and AI-driven productivity 
+  - **VibeCoding Projects:** Building SaaS solutions for automation and AI-driven productivity 
   - **Automation:** AI-driven SaaS subscription & domain management tools  
 
 ---
