@@ -34,4 +34,4 @@ I build intelligent systems powered by **Large Language Models (LLMs)**, **Visio
 
 ---
 
-⭐️ From [OUSSAMA ELMAHBOUBI](https://github.com/oussamahboubi)
+⭐️ From [OUSSAMAHBOUBI](https://github.com/oussamahboubi)
